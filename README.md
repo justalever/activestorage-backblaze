@@ -14,7 +14,7 @@ backblaze:
   bucket_name: <bucket_name>
   bucket_id: <bucket_id>
   account_id: <keyId>
-  acount_token: <applicationKey>
+  account_token: <applicationKey>
 ```
 
 In your environments/production.rb or application.rb (depending on your choice) add the following:
